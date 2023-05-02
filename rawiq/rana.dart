@@ -13,3 +13,4 @@ void main() {
             print(la.substring(la.length -ran)); ran--;
             }
         }
+}
